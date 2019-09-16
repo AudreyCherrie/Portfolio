@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/09/iphone-11-1-1220x914.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;   
+}
+ul li{
+    padding:30px;
+    display:inline-block;
+    float:center;
+    margin:40px
+}
+li{
+    font-size: 30px;
+}
+.info{
+    text-align:left;
+    font-size: 20px;
+}
+.info{
+    text-align: center;
+    font-size: 40px;
+    
+}
+p{
+    font-size: 20px;
+    
+
+}
