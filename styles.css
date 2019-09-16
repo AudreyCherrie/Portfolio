@@ -5,8 +5,9 @@ ul li{
     margin:40px;
     text-align: center;
 }
-img{
-    margin:left;
+#profile-pic{
+    position: relative;
+    left: 550px;
 }
 
 li{
@@ -15,10 +16,10 @@ li{
 }
 
 
-header{
-    /* background-color: #80008075 */
+/* header{
+    background-color: #80008075
 
-}
+} */
 h5{
     color: aliceblue;
     
@@ -57,12 +58,9 @@ h3{
 }
 
 
-/* body{
-    background-image: url("b21dd0c7-abb4-448a-bfc0-0ed0a7eb01dc.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-} */
+body{
+    background-color: aquamarine;  
+}
 
 .all > h1, .all> h2, .all> h3{
     text-align:center;
@@ -85,9 +83,7 @@ h3{
     margin: 50px;
     padding: 500px;
     position: top; */
-
-
-}
+/* } */
 h4{
     font-size: 40px;
     text-align: center;
